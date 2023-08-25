@@ -1,6 +1,6 @@
        IDENTIFICATION DIVISION.
-       PROGRAM-ID.    TP01.
-       AUTHOR.        ÉRICA BARBOSA.
+       PROGRAM-ID.    TP01. 
+       AUTHOR.        Ã‰RICA BARBOSA.
        INSTALLATION.  HOME.
        DATE-WRITTEN.  24/08/2023.
        DATE-COMPILED. 24/08/2023.
